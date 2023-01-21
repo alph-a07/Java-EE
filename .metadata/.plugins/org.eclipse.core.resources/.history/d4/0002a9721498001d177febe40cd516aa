@@ -1,0 +1,7 @@
+package servlets;
+
+import javax.servlet.GenericServlet;
+
+public class GenericServletClass extends GenericServlet{
+
+}
