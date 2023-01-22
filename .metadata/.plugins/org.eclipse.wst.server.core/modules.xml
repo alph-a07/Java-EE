@@ -5,4 +5,5 @@
   <module moduleId="org.eclipse.jst.jee.server:Servlets101" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:HelloServlets" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ContextParams" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SessionScope" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>
