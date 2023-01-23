@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Servlets101" path="/Servlets101" reloadable="true" source="org.eclipse.jst.jee.server:Servlets101"/><Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\FeedBackPage" path="/FeedBackPage" reloadable="true" source="org.eclipse.jst.jee.server:FeedBackPage"/><Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ContextParams" path="/ContextParams" reloadable="true" source="org.eclipse.jst.jee.server:ContextParams"/><Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SessionScope" path="/SessionScope" reloadable="true" source="org.eclipse.jst.jee.server:SessionScope"/></Host>
+      <Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\RequestScope" path="/RequestScope" reloadable="true" source="org.eclipse.jst.jee.server:RequestScope"/></Host>
     </Engine>
   </Service>
 </Server>

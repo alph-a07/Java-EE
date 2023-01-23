@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4073867648.index
 \HelloServlets\src\main\java
+F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3589722166.index
+\RequestScope\src\main\java
 F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3369319458.index
 \HelloWeb\src\main\java
 F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2912792497.index
