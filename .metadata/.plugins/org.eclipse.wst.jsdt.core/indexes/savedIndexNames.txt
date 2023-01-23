@@ -1,12 +1,8 @@
 INDEX VERSION 1.4+F:\Softwares\jee-2022-12\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2677382494.index
-2734865582.index
+32379429.index
 3881795733.index
-1387331970.index
-1387030783.index
 2778390393.index
 855811367.index
 3589722166.index
-2996091354.index
 3936001756.index
 474806441.index
