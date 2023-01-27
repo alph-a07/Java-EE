@@ -11,4 +11,5 @@
   <module moduleId="org.eclipse.jst.jee.server:BinaryResponse" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ErrorHandling" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:IncludingAndFOrwarding" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Redirecting" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>
