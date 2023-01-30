@@ -11,6 +11,7 @@
   <module moduleId="org.eclipse.jst.jee.server:IncludingAndFOrwarding" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Redirecting" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:FeedBackPage" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SessionTrackingViaCookies" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ContextParams" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:ErrorHandling" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>
