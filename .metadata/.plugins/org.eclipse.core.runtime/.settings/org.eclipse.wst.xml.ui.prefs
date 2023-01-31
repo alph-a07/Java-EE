@@ -1,3 +1,5 @@
+autoProposeCode=<\=\:@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ._
+autoProposeDelay=0
 cdataBorder=\#FFFFFF | null | null | null | null | null
 cdataText=\#F8F8F2 | null | null | null | null | null
 commentBorder=\#75715E | null | null | false | null | null
@@ -20,3 +22,5 @@ tagAttributeValue=\#E6DB74 | null | null | null | null | null
 tagBorder=\#79ABFF | null | null | null | null | null
 tagName=\#BED6FF | null | null | null | null | null
 xmlContent=\#F8F8F2 | null | null | null | null | null
+xml_content_assist_default_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000
+xml_content_assist_own_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000
