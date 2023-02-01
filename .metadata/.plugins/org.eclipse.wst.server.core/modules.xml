@@ -6,6 +6,8 @@
   <module moduleId="org.eclipse.jst.jee.server:HelloServlets" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:SessionScope" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:StaticContentInJSP" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPDirectives" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPScriptlets" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:AutoRefreshHeader" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:RequestScope" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:BinaryResponse" serverId="Tomcat v9.0 Server at localhost"/>
